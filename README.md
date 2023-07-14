@@ -5,7 +5,7 @@
 -I mostly do app developpement currently, my goal however is AI creation.
 -Do the best you can until you know better. Then when you know better do better
 
-##My accounts :
+## My accounts :
 
 <code><a href="https://www.linkedin.com/in/bakr-asskali-1b2975225/"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 
