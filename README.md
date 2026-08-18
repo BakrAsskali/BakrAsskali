@@ -101,8 +101,6 @@ My philosophy is in the quote at the top of this page. Right now, "knowing bette
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BakrAsskali&theme=github_dark" alt="Top languages by repo" />
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BakrAsskali&theme=github_dark" alt="Top languages by commit" />
 
-<img src="https://streak-stats.demolab.com/?user=BakrAsskali&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub streak" />
-
 </div>
 
 ## 📈 Contribution Activity
